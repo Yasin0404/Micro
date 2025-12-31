@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="../EvOtomasyonu/EvOtomasyonu/EvOtomasyonu.csproj" />
+  </Folder>
+  <Project Path="../EvOtomasyonu/EvOtomasyonu/EvOtomasyonu.csproj" Id="2a6e6128-ea0b-4bc4-b82d-05cca0c50aaf" />
+  <Project Path="APITest/APITest.csproj" Id="3d4875c3-2014-4915-8351-cf2b2d96f4df" />
+</Solution>
